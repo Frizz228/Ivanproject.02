@@ -62,4 +62,13 @@ It’s **stylish**, **lightweight**, and **reliable** — the perfect companion 
 
 ## 💌 Order Now  
 
-📧 Contact for orders: [ivanstulins7@gmail.com](mailto:ivanstulins7@gmail.com)  
+📧 
+## WEB
+https://frizz228.github.io/Ivanproject.02/
+
+
+
+
+
+Contact for orders: [ivanstulins7@gmail.com](mailto:ivanstulins7@gmail.com)  
+`
