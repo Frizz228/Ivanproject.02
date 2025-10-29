@@ -45,7 +45,7 @@ It’s **stylish**, **lightweight**, and **reliable** — the perfect companion 
 
 ## ⚙️ Project Details
 
-- 💻 Built with **HTML5** and **CSS3**  
+- 💻 Built with **HTML** and **CSS**  
 - 📱 Responsive layout  
 - 🧩 Semantic and structured code  
 - 🧠 Educational and portfolio project  
